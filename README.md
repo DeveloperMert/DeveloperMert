@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeveloperMert
+- 👋 Hi, I’m @developermert
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Web scrapping
 - 💞️ I’m looking to collaborate on ...
