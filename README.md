@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developermert
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Web scrapping
+- 🌱 I’m currently learning Machine Learning & Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me developermert0@gmail.com
 - Fiverr:https://www.fiverr.com/mertfreelanc
